@@ -42,7 +42,6 @@ $string['report_coursecompletion'] = 'Module Completion Report';
 $string['report_courseenrollment'] = 'Module Enrollment Report';
 $string['module'] = 'Category';
 $string['name'] = 'Name';
-$string['id'] = 'course_id';
 
 /* WWL original strings
 $string['pluginname'] = 'Course Status Tracker';
