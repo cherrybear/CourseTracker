@@ -4,8 +4,9 @@
 
 
 #### Plugin Installation
+---
 1. Copy plugin folder in Moodle blocks folder
-  - if you already have the original Course Status Tracker block installed you will want to rename the existing block with a ".old" before installing this one. All of the information from the existing block can be carried forward. 
+  - if you already have the original Course Status Tracker block installed you will want to rename the existing block with a ".old" before installing this one. All of the information from the existing block can be carried forward.
 2. Login with Administrator on Moodle site
 3. Install the plugin by clicking on 'update database' now button
 
